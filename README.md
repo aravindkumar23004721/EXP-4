@@ -33,16 +33,16 @@ PROCEDURE:
 2.   Switch on the main supply. Observe the transformer secondary voltage waveform and output voltage waveform across the load resistor, simultaneously on the CRO screen. Note down       and calculate
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
- 
-![WhatsApp Image 2025-11-09 at 19 21 41_ca2c5ee8](https://github.com/user-attachments/assets/bd7ef872-5e49-48ef-b50a-3ec0bb6a6750)
-![IMG-20251109-WA0072](https://github.com/user-attachments/assets/354cb055-1190-472b-bc0f-f3f6c860a622)
-![IMG-20251109-WA0075](https://github.com/user-attachments/assets/ecc1b588-b8b8-44f5-b687-e9132665ab37)
-![IMG-20251109-WA0078](https://github.com/user-attachments/assets/8bfc4121-dc24-4f4a-81d8-42d37c91f8d8)
-![IMG-20251109-WA0080](https://github.com/user-attachments/assets/701a6d9d-8bf8-496c-9dc4-0841f8d03f7d)
-![IMG-20251109-WA0077](https://github.com/user-attachments/assets/b55b1e63-c57d-42b8-8d8c-8ee62331d434)
-![IMG-20251109-WA0079](https://github.com/user-attachments/assets/17db0c17-81b2-4137-9636-88f5f3e34702)
-![IMG-20251109-WA0074](https://github.com/user-attachments/assets/a2ab95e1-e531-4c4a-b68d-559a287dbcdc)
-![IMG-20251109-WA0076](https://github.com/user-attachments/assets/e7e59454-4367-4671-a005-8bd2efbbe8c9)
+
+![1](https://github.com/user-attachments/assets/737ab9f4-5331-4e09-8f55-66bd1c0ad87c)
+![2](https://github.com/user-attachments/assets/4df67f44-2e1e-4805-8784-83fa0a5ee411)
+![3](https://github.com/user-attachments/assets/48a2de07-af37-4fca-be83-0a20acc2cc1f)
+![4](https://github.com/user-attachments/assets/a2a67acc-6aec-43ef-a766-ebb45504d878)
+![5](https://github.com/user-attachments/assets/948ca884-5b14-4643-a327-3fd746a29de0)
+![6](https://github.com/user-attachments/assets/620098bd-5ca3-4ec1-9b30-188d2125450d)
+![7](https://github.com/user-attachments/assets/f5b2b407-fc63-48a7-a7cc-be1ab0f119d3)
+![8](https://github.com/user-attachments/assets/842b4dc6-79c5-451f-b67d-c5ebd38de1de)
+![9](https://github.com/user-attachments/assets/e97f1b2f-6b22-4ef7-af7f-7cf0a81555d6)
 
 ## OUTPUT 
 
